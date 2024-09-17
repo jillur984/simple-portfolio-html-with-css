@@ -625,6 +625,8 @@ section {
 
 /* my contact end here */
 
+/* my footer start here */
+
 .footer {
     background-color: var(--second-color);
     color: #fff;
@@ -686,6 +688,6 @@ section {
     opacity: 0.8;
 }
 
-
+/* my footer end here */
 
 
